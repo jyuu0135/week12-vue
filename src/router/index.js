@@ -6,3 +6,4 @@ const router = createRouter({
     // your routes here
   ],
 })
+// no
